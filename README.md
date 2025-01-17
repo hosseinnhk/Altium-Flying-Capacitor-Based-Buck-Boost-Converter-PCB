@@ -20,9 +20,9 @@ An experimental prototype was constructed to validate the proposed system, featu
 
 The experimental results demonstrate the effectiveness and robustness of the converter.
 
-## Repository Contents
+![Image](https://github.com/user-attachments/assets/c9d3cb8a-b61b-4f73-bc53-a8d568cda967)
 
-This repository contains **Altium Designer files** related to the PCB design of the proposed DC–DC converter. These files include:  
-- Schematic files  
-- PCB layout  
-- Component libraries  
+![Image](https://github.com/user-attachments/assets/714f28c5-b48d-487f-b60c-933a98e2182d)
+![Image](https://github.com/user-attachments/assets/d2fd4927-2ee9-4f43-87a9-c71b23b0ecaa)
+![Image](https://github.com/user-attachments/assets/cf64c24a-0104-4e91-afc2-40dede4dd32f)
+![Image](https://github.com/user-attachments/assets/c86f4e7e-f608-4286-9d9f-a13b4b17bc37)
