@@ -1,24 +1,13 @@
-# A High Step-Up Nonisolated DC–DC Converter With Low Voltage Stress Across Transistor
+# Altium-Flying-Capacitor-Based-Buck-Boost-Converter-PCB
 
-This repository contains Altium Designer files for the printed circuit board (PCB) of the proposed high step-up nonisolated DC–DC converter as presented in the paper:  
-**"A High Step-Up Nonisolated DC–DC Converter With Low Voltage Stress Across Transistor."**
+This repository contains Altium Designer files for the printed circuit board (PCB) of the proposed flying capacitor based buck boost converter as presented in the paper:  
+**"A New Flying Capacitor-Based Buck–Boost Converter for Dual-Purpose Applications"**
 
 ## Abstract
 
-The proposed converter topology utilizes a combination of a coupled inductor and voltage multiplier cells (VMCs) to achieve ultrahigh voltage gain with lower duty cycles. The secondary side of the coupled inductor works with VMCs to suppress peak voltages across the power switches, minimizing voltage stress on the semiconductors. Key advantages include:  
-- **Continuous input current with reduced ripple.**  
-- **Ultrahigh voltage gain.**  
-- **Low voltage stress across semiconductors.**  
+A novel dual-purpose common ground dc–dc/dc–ac power converter is proposed in this article. It is based on the flying capacitor circuit along with a boost circuit, which in turn provides a wide range of input voltage regulation with the capability of stepping up or down the output voltage. The same components are used under both dc–dc and dc–ac modes, which reduces the redundancy of the used devices. Particular attention is dedicated to the working modes of the proposed solution. The special control system is implemented to provide acceptable current and voltage quality in off-grid and grid-connected modes. To underline the pros and cons of the proposed solution, a comprehensive comparison is
+performed. Finally, the performance of the proposed dual-purpose power converter is investigated through an experimental 3.5-kW/5kW setup, for dc–ac and dc–dc operating modes, respectively. Main oscillograms along with efficiency analysis are presented and discussed in conclusions.
 
-This work includes a detailed analysis of the converter’s operational modes, steady-state performance, design considerations, and comparisons with similar topologies.  
-
-An experimental prototype was constructed to validate the proposed system, featuring:  
-- **Power rating:** 240 W  
-- **Input voltage range:** 14–60 V  
-- **Output voltage:** 350 V  
-- **Switching frequency:** 60 kHz  
-
-The experimental results demonstrate the effectiveness and robustness of the converter.
 
 ![Image](https://github.com/user-attachments/assets/c9d3cb8a-b61b-4f73-bc53-a8d568cda967)
 
